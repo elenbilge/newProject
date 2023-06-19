@@ -8,4 +8,9 @@ v4 changes
 
 The work I will delete 
 v6 for techporo
+
 v7 code with Techpro
+
+
+v7 changes from master 
+
